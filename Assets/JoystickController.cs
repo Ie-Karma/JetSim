@@ -49,7 +49,8 @@ public class JoystickController : MonoBehaviour
 		{
 			case 1:
 				// Llama al método OnFireCannon del PlayerController
-				playerController.OnFireCannon(true);
+				playerController.OnFireMissile();
+				//playerController.OnFireCannon(true);
 				break;
 			case 2:
 				playerController.OnFireCannon(false);

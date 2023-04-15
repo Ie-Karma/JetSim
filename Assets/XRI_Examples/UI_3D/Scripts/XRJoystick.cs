@@ -11,8 +11,6 @@ namespace UnityEngine.XR.Content.Interaction
     {
         const float k_MaxDeadZonePercent = 0.9f;
 
-        
-
         public enum JoystickType
         {
             BothCircle,

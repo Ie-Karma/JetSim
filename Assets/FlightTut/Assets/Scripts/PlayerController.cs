@@ -82,7 +82,12 @@ public class PlayerController : MonoBehaviour {
             plane.TryFireMissile();
         }
     }
+	public void OnFireMissile()
+	{
+		if (plane == null) return;
 
+		plane.TryFireMissile();
+	}
 
 	public void OnFireCannon(InputAction.CallbackContext context) {
         if (plane == null) return;
