@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 43d1b3c16f1378e4d826f314bc35e7fc
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.009_cock.bmp
+    second: {fileID: 2100000, guid: bda75d56d9ccbdb4884e7681c5128078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.010_0fdd30ec.bmp
+    second: {fileID: 2100000, guid: 857b94d760d8b154685f4d83a12bbe87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.011
+    second: {fileID: 2100000, guid: 43bf907a523cb36408f4c94d5db948de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.012_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: 9bb81aad07979bb4ea6c77b7bf88cae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.013_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: b79c7c9cad0e8704ab95f6fef96f8c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.014_cock.bmp
+    second: {fileID: 2100000, guid: 30df5fe84e7b0bb4792c3882ac0ca09f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.015_29213969.bmp
+    second: {fileID: 2100000, guid: baa6af84c2ef26943b6e732335095ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.016_a8b25c35.bmp
+    second: {fileID: 2100000, guid: 75565ce87bfa67e4e846b66c24ddba86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.017_a8b25c35.bmp
+    second: {fileID: 2100000, guid: f40192d4a55787542a98db5913796883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.018_f5ebd7ae.bmp
+    second: {fileID: 2100000, guid: 2ed212883a4032948a018d745e8ab12a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.019_9f338f5b.bmp
+    second: {fileID: 2100000, guid: 5a05af34f0e5ce142821393431828551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.020_0fdd30ec.bmp
+    second: {fileID: 2100000, guid: d31b50dd997d83248b6eeba0c13429cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.021_fd54653e.bmp
+    second: {fileID: 2100000, guid: 3a3e621309c0194419587f4895be89f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.022_44c68c48.bmp
+    second: {fileID: 2100000, guid: 4fa3397b72392474cb64dc3ccc68366b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.024_fede96c9.bmp
+    second: {fileID: 2100000, guid: c78982d2bb1813644ac5f63facaba1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.026_f-15e_is_5t.bmp
+    second: {fileID: 2100000, guid: 113034ead063c5e478d6c58e09e76d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.048_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: 166ec2e535609f2409510ed1d6cc8857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.050_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: fb78b7ea5f21871499a92e6779731c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.051_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: bab254e66bda05042b40f2440a931aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.053_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: 8df8a49fb922719448c09e90d003b0b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.054_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: bbdac6923ac39f74c9efaa57cd26caa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.058_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: b231cc50a59c6bc49b521ae006d20d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.060_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: aa206a105f9e9e94bafa30d29d2e69ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.062_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: b0d80771f2c238744b4a18aebb878a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.064_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: c8281445132127d4fb4fdca9d555530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.070_0fdd30ec.bmp
+    second: {fileID: 2100000, guid: 9a919f5eec083fa43858f1616bbfe85c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.072_mirror.bmp
+    second: {fileID: 2100000, guid: 3bf15f988f4f61340bc2e8389390538b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.073_cock.bmp
+    second: {fileID: 2100000, guid: 687a247453b602c45a12396a29d981e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.074_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: bca9e9c839eebef40a3ae302dee8df35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.083_hud.bmp
+    second: {fileID: 2100000, guid: 26ba9485147d6ed488087f4536e2d1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.086_remaphydrabody.bmp
+    second: {fileID: 2100000, guid: eb32101af77efba43b94e0a2e78c61eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_hydra.087_0fdd30ec.bmp
+    second: {fileID: 2100000, guid: c38c163a344a62d488214803dcce3e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 08a384af8a75b644ab75c9db0c44d360, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
