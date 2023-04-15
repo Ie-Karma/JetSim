@@ -7,11 +7,11 @@ public class PlayerController : MonoBehaviour {
     [SerializeField]
     new Camera camera;
     [SerializeField]
-    Plane plane;
+    public Plane plane;
     [SerializeField]
     PlaneHUD planeHUD;
 
-    Vector3 controlInput;
+    public Vector3 controlInput;
     PlaneCamera planeCamera;
     AIController aiController;
 
@@ -83,8 +83,10 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-    public void OnFireCannon(InputAction.CallbackContext context) {
+
+	public void OnFireCannon(InputAction.CallbackContext context) {
         if (plane == null) return;
+
 
         if (context.phase == InputActionPhase.Started) {
             plane.SetCannonInput(true);
@@ -93,7 +95,14 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-    public void OnToggleAI(InputAction.CallbackContext context) {
+	public void OnFireCannon(bool start)
+	{
+		if (plane == null) return;
+
+		plane.SetCannonInput(start);
+	}
+
+	public void OnToggleAI(InputAction.CallbackContext context) {
         if (plane == null) return;
 
         if (aiController != null) {

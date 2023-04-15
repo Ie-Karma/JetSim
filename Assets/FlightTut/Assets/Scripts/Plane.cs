@@ -151,7 +151,7 @@ public class Plane : MonoBehaviour {
             }
 
             if (health == 0 && MaxHealth != 0 && !Dead) {
-                Die();
+                //Die();
             }
         }
     }
