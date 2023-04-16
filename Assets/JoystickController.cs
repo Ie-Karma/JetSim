@@ -75,7 +75,6 @@ public class JoystickController : MonoBehaviour
 
 	public void UpdatePointer()
 	{
-		Debug.Log("Joystick input: " + aimInput);
 
 		joystickInput = Vector2.ClampMagnitude(joystickInput, 1f);
 		aimInput = Vector2.ClampMagnitude(aimInput, 1f);
